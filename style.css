@@ -13,11 +13,11 @@ body
 }
 h2
 {
-      text-transform: uppercase;
-      letter-spacing: 4px;
-      font-size:  18px;
       text-align: center;
-      color: black;
+      font-family: 'Croissant One', cursive;
+      font-size: 5em;
+      margin-top: -50px;
+      color: #333;
 }
 .clock
 {
